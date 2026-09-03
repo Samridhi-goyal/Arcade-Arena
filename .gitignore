@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Database
+*.db
+
+# Configuration / secrets
+config.json
+.env
+
+# VS Code
+.vscode/
